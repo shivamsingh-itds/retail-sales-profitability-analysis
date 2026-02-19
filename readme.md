@@ -93,7 +93,7 @@ The project includes structured SQL queries answering 15+ real-world business qu
 
 #### 🔽 Dashboard Screenshot – Page 1
 
-![Dashboard Page 1](images/dashboard_page1.png)
+![Dashboard Page 1](performance-overview.png)
 
 ---
 
@@ -146,6 +146,7 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 Shivam Singh
+
 Aspiring Data Scientist | Machine Learning Enthusiast
 
 🔗 GitHub: [https://github.com/shivamsingh-itds]
