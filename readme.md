@@ -108,7 +108,7 @@ The project includes structured SQL queries answering 15+ real-world business qu
 
 #### 🔽 Dashboard Screenshot – Page 2
 
-![Dashboard Page 2](images/dashboard_page2.png)
+![Dashboard Page 2](customer-overview.png)
 
 ---
 
@@ -145,7 +145,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-Shivam Singh
+**Shivam Singh**
 
 Aspiring Data Scientist | Machine Learning Enthusiast
 
